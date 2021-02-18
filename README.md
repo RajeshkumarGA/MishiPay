@@ -8,5 +8,8 @@ else will show product invalid
 
 Note : QR codes for 2 Products are given in project folder.
 
+QR codes URL's : http://www.mishipay.com/qr?productId=1364
+                              http://www.mishipay.com/qr?productId=1368
+
 
 
